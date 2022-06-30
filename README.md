@@ -1,2 +1,3 @@
-# Repositorio-Teste
-Repositório teste do curso Formação Pensamento Computacional
+# Repositório-Teste
+
+-🎓Repositório teste do curso Formação **Pensamento Computacional**
